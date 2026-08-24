@@ -1,2 +1,24 @@
 # Rank-your-music
 listagem de músicas que o usuário pode criar, lembrar de pensar no nome depois
+Autor: Roni Fabio Banaszewski
+Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada em operações comuns de instituições financeiras (ex: saque, depósito, extrato, saldo, cadastro), sendo o diferencial, a cobrança de taxas de forma abusiva para cada operação realizada pelo cliente.
+
+O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
+
+📚 Documentação do Projeto
+Para entender as regras de negócio, o escopo e a arquitetura técnica da aplicação, consulte os documentos abaixo:
+
+📄 Product Requirements Document (PRD) - Visão geral, atores e histórias de usuário.
+🛠️ Especificação Técnica (Tech Spec) - Diagrama de banco de dados (DER), dicionário de dados e rotas da API (JSON Server).
+🎨 Design
+🎨 Design System - Identidade visual
+🖼️ Protótipo no Figma - Telas interativas da aplicação.
+🌐 Site em Produção - GitHub Pages
+https://utfpr-gp.github.io/roubank-css/
+
+💻 Tecnologias e Dependências
+Framework CSS: MaterializeCSS
+JavaScript:
+JQuery - Para realizar animações e manipulação do DOM.
+JSON Server - Para simular uma API REST.
+✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
