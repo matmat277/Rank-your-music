@@ -1,7 +1,8 @@
 # Rank-your-music
 listagem de músicas que o usuário pode criar, lembrar de pensar no nome depois
-Autor: Roni Fabio Banaszewski
-Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada em operações comuns de instituições financeiras (ex: saque, depósito, extrato, saldo, cadastro), sendo o diferencial, a cobrança de taxas de forma abusiva para cada operação realizada pelo cliente.
+
+Autor: Mateus Neckel de Faveri
+***DESCREVER PROJETO***
 
 O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
@@ -17,7 +18,7 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 https://utfpr-gp.github.io/roubank-css/
 
 💻 Tecnologias e Dependências
-Framework CSS: MaterializeCSS
+Framework CSS: 
 JavaScript:
 JQuery - Para realizar animações e manipulação do DOM.
 JSON Server - Para simular uma API REST.
