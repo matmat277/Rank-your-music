@@ -26,8 +26,10 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 Framework CSS: 
 JavaScript:
 JQuery - Para realizar animações e manipulação do DOM.
+
 JSON Server - Para simular uma API REST.
-✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
+
+## ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
 
 *MARKDOWN REQUIREMENT LIST HERE*
