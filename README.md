@@ -12,7 +12,7 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 ## 📄 Product Requirements Document (PRD) - Visão geral, atores e histórias de usuário.
 🛠️ Especificação Técnica (Tech Spec) - Diagrama de banco de dados (DER), dicionário de dados e rotas da API (JSON Server).
 
-🎨 Design
+🎨 Design // (add links here)
 
 🎨 Design System - Identidade visual
 
@@ -22,9 +22,9 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 
 
 ## 💻 Tecnologias e Dependências
-Framework CSS: 
-JavaScript:
-JQuery - Para realizar animações e manipulação do DOM.
+
+[!IMPORTANT]
+WIP CONTENT.
 
 ## ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
