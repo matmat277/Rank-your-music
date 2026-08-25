@@ -1,5 +1,5 @@
 # Rank-your-music
-listagem de músicas que o usuário pode criar, lembrar de pensar no nome depois
+website de listagem de músicas por ordem de preferência própria do usuário.
 
 Autor: Mateus Neckel de Faveri
 ***DESCREVER PROJETO***
