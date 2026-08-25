@@ -12,11 +12,15 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 
 ## 📄 Product Requirements Document (PRD) - Visão geral, atores e histórias de usuário.
 🛠️ Especificação Técnica (Tech Spec) - Diagrama de banco de dados (DER), dicionário de dados e rotas da API (JSON Server).
+
 🎨 Design
+
 🎨 Design System - Identidade visual
+
 🖼️ Protótipo no Figma - Telas interativas da aplicação.
+
 🌐 Site em Produção - GitHub Pages
-https://utfpr-gp.github.io/roubank-css/
+
 
 ## 💻 Tecnologias e Dependências
 Framework CSS: 
