@@ -1,7 +1,8 @@
-# Rank-your-music
+# Rank-your-music (-)
 website de listagem de músicas por ordem de preferência própria do usuário.
 
-Autor: Mateus Neckel de Faveri
+
+# Autor: Mateus Neckel de Faveri
 ***DESCREVER PROJETO***
 
 O frontend da aplicação foi desenvolvido com HTML, CSS e JavaScript e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
