@@ -12,7 +12,7 @@ Mateus Neckel de Faveri || Projeto Rank your music
 
 ## 3. Histórias de usuário e Escopo
 
-- 🔐 Épico 1: Autenticação
+### 🔐 Épico 1: Autenticação
 
 US01 — Criar Conta: Como um Visitante, quero criar uma conta para poder utilizar as funcionalidades de criação e gerenciamento de rankings.
 
@@ -33,7 +33,7 @@ Critérios de Aceitação:
 US03 — Encerrar Sessão: Como um Usuário autenticado, quero encerrar minha sessão para impedir que outras pessoas utilizem minha conta no dispositivo.
 
 
-🏆 Épico 2: Gerenciamento de Rankings
+### 🏆 Épico 2: Gerenciamento de Rankings
 
 US04 — Criar Ranking: Como um Usuário, quero criar um ranking para organizar músicas de acordo com um determinado critério ou preferência.
 
@@ -61,3 +61,31 @@ Critérios de Aceitação:
 - Somente o proprietário pode excluir o ranking.
 - O sistema deve solicitar confirmação antes da exclusão.
 - Após a exclusão, o ranking não deve mais aparecer entre os rankings do usuário.
+
+### 🎶 Épico 3: Gerenciamento de Músicas
+
+US08 — Pesquisar Música: Como um Usuário, quero pesquisar músicas por meio da aplicação para encontrar músicas que desejo adicionar aos meus rankings.
+
+Critérios de Aceitação:
+
+- A pesquisa deve utilizar a API externa de músicas.
+- O sistema deve apresentar os resultados encontrados.
+- Cada resultado deve apresentar informações suficientes para identificar a música.
+
+US09 — Adicionar Música ao Ranking: Como um Usuário, quero adicionar uma música encontrada na pesquisa a um ranking para incluí-la na minha classificação.
+
+Critérios de Aceitação:
+
+- A música deve ser associada ao ranking selecionado.
+- A música deve aparecer no ranking após ser adicionada.
+- Uma mesma música não deve ser adicionada mais de uma vez ao mesmo ranking.
+
+US10 — Remover Música do Ranking: Como um Usuário, quero remover uma música do ranking para alterar seu conteúdo.
+
+US11 — Reordenar Músicas: Como um Usuário, quero alterar a posição das músicas dentro de um ranking para representar corretamente minhas preferências.
+
+Critérios de Aceitação:
+
+- O usuário deve poder alterar a posição de uma música.
+- A ordem definida pelo usuário deve ser persistida.
+- A posição das demais músicas deve ser atualizada adequadamente.
